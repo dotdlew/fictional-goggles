@@ -1,5 +1,12 @@
 # fictional-goggles
-Module 14 Model-View-Controller (MVC) Challenge: Tech Blog
+Module 14 Challenge: Model-View-Controller (MVC) Tech Blog
+
+# Description
+
+# Author
+Daniel H. Lewis
+
+# Deployment
 
 # User Story
 
