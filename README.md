@@ -8,6 +8,9 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 Daniel H. Lewis
 
 # Deployment
+Heroku: https://tranquil-kings-canyon-76669.herokuapp.com/
+
+Github: https://github.com/dotdlew/fictional-goggles
 
 # User Story
 AS A developer who writes about tech
